@@ -1,4 +1,5 @@
-def parrot(statement){
-puts "Squawk!" ;
+def parrot(str){
+str = "Squawk!" ;
+puts str ;
 end
 }
