@@ -1,4 +1,4 @@
 def parrot(statement){
-puts statement + "Squawk!" ;
+puts "Squawk!" ;
 end
 }
